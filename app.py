@@ -12,6 +12,6 @@ def inici():
 @app.route("/alumne/alan")
 def alumne():
     return f"""
-    <h1>Hola, alan!</h1>
+    <h1>Hola, Alan!</h1>
     <p>Aquesta pàgina ha estat generada pel servidor.</p>
     """
